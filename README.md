@@ -2,7 +2,6 @@
 
 A new Flutter project.
 
-![Android](https://i.imgur.com/N0qvvgN.jpg)
 
 ## Getting Started
 
